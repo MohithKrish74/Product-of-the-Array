@@ -1,1 +1,0 @@
-# Product-of-the-Array
